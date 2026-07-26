@@ -46,5 +46,13 @@
             "Upload_Enabled": false,
             "Expiry_Date": "20260726"
         }
+    ],
+    "Card_Admin_3_4": [
+        {
+            "Cloud_Name": "vhhhh",
+            "Upload_Preset": "hhhhh",
+            "Upload_Enabled": true,
+            "Expiry_Date": "20260726"
+        }
     ]
 }
