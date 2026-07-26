@@ -27,7 +27,7 @@
         {
             "Cloud_Name": "vhhhh",
             "Upload_Preset": "hhhhh",
-            "Upload_Enabled": true,
+            "Upload_Enabled": false,
             "Expiry_Date": "20260726"
         }
     ]
