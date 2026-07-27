@@ -35,7 +35,7 @@
         {
             "Cloud_Name": "jbky6tgb",
             "Upload_Preset": "Helptst",
-            "Upload_Enabled": false,
+            "Upload_Enabled": true,
             "Expiry_Date": "20260810"
         }
     ],
