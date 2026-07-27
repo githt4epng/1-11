@@ -51,8 +51,8 @@
         {
             "Cloud_Name": "vhhhh",
             "Upload_Preset": "hhhhh",
-            "Upload_Enabled": false,
-            "Expiry_Date": "20260726"
+            "Upload_Enabled": true,
+            "Expiry_Date": "20260727"
         }
     ],
     "Card_Admin_2_3": [
